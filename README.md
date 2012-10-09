@@ -29,4 +29,6 @@ Some information sources we have used are:
 but we could not find a database of suspicious Job Descriptions to present to people in danger of falling into human traffickers' hands in a quick and concise way that would enable them to recognise when a job opportunity abroad is suspicious.
 So we started a database of our own to prove the concept:
 
-- https://docs.google.com/spreadsheet/pub?key=0AhYCl_H3gUJ0dGxFY0hoY1JyX0drdVVfSzdxSzE4Znc&single=true&gid=0&output=html
+- https://docs.google.com/spreadsheet/pub?key=0AhYCl_H3gUJ0dGxFY0hoY1JyX0drdVVfSzdxSzE4Znc
+
+Jobs to Avoid is best viewed on your phone at http://jobstoavoid.appspot.com
