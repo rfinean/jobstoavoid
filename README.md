@@ -4,6 +4,9 @@ Jobs that you should avoid - Job Descriptions used by [human traffickers](http:/
 
 [Slideshow introduction](https://docs.google.com/presentation/pub?id=1skpUiZ5vfjGucCAEOIzR-rnJoYLFqfYgylifIfGxts0&start=false&loop=false&delayms=5000)
 
+![Great Job Opportunity Overseas](http://www.iom.int/files/live/sites/iom/files/pbn/photos/jm20130924_flyer1.jpg)
+[Jamacan 2013 IOM poster](http://www.iom.int/cms/en/sites/iom/home/news-and-views/press-briefing-notes/pbn-2013/pbn-listing/public-awareness-campaign-launch.html)
+
 Jobs to Avoid is a list of "anti-jobs", typical opportunities that are currently being pitched by human traffickers to lure poor people to the hope of a brighter future in the developed world but which are more likely to result in slavery.
 With 15 million children plus 15 million adults in illegal forced labor all over the world this is information that should be accessible to **everyone** in every society where people are at risk of falling for human traffickers' lies.
 
@@ -27,7 +30,7 @@ Some information sources we have used are:
 - http://lastradainternational.org - Eastern Europe
 
 but we could not find a database of suspicious Job Descriptions to present to people in danger of falling into human traffickers' hands in a quick and concise way that would enable them to recognise when a job opportunity abroad is suspicious.
-So we started a database of our own to prove the concept:
+So we mocked up a database of our own to prove the concept:
 
 - https://docs.google.com/spreadsheet/pub?key=0AhYCl_H3gUJ0dGxFY0hoY1JyX0drdVVfSzdxSzE4Znc
 
